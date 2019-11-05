@@ -48,7 +48,8 @@
         <div class="modal-body2">
             <span class="close2">&times;</span>
            <input type="button" id="modal_button" value="Apples & Oranges" onclick="window.location.href='/tpl/apples_oranges.php'" />
-            <input type="button" id="modal_button" value="Neural Network" onclick="window.location.href='/NeuralNetworking/neural_network.php'" />
+            <input type="button" id="modal_button" value="Neural Network" onclick="window.location.href='/NeuralNetwork/python.php'" />
+            <input type="button" id="modal_button" value="Python" onclick="window.location.href='/app/templates/index.html'" />
 
         </div>
     </div>
