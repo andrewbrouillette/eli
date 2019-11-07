@@ -1,4 +1,5 @@
 import numpy as np
+import math # added for (math.floor) to get a whole number on output data number
 
 class NeuralNetwork():
     def __init__(self):
